@@ -1,0 +1,7 @@
+pl\wilanowskiartur\requirements\ApiSearchRequirements$ApiSearchRequirementsBuilder.class
+pl\wilanowskiartur\requirements\ApiSearchRequirements.class
+pl\wilanowskiartur\RecruitmentTask.class
+pl\wilanowskiartur\utils\HttpClientUtil.class
+pl\wilanowskiartur\requirements\RandomSearchRequirements$RandomSearchRequirementsBuilder.class
+pl\wilanowskiartur\requirements\RandomSearchRequirements.class
+pl\wilanowskiartur\services\NumberService.class
